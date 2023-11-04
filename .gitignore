@@ -1,3 +1,6 @@
+data/
+references/task_description.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
