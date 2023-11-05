@@ -85,7 +85,7 @@ In the `src` directory you should put all the code that is used for the final so
 
 Full assignment without any problems is said to be the `100%` solution.
 
-| Criteria | Weight (%) | Comment |
+TODO| Criteria | Weight (%) | Comment |
 | ---- | ----- | ----- |
 | Structure and code quality | 25 | Code quality, structure, comments, clean repo, commit history, reproducibility (manual seeding) |
 | Visualization, notebooks quality | 10 | Jupyter notebooks, visualizations |
